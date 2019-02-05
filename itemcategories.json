@@ -1,0 +1,29 @@
+[
+{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"manasacakewala"},
+{"type":"table","name":"itemcategories","database":"manasacakewala","data":
+[
+{"id":"1","itemcategorycode":"IC1","itemcategoryname":"Breads","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:04:13am"},
+{"id":"2","itemcategorycode":"IC2","itemcategoryname":"Burgers","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:17:37am"},
+{"id":"3","itemcategorycode":"IC3","itemcategoryname":"Cookies","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:21:23am"},
+{"id":"4","itemcategorycode":"IC4","itemcategoryname":"Cakes","itemcategorystatus":"inactive","itemcategoryregdate":"04\/02\/18 11:25:03am"},
+{"id":"5","itemcategorycode":"IC5","itemcategoryname":"Others","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:29:43am"},
+{"id":"6","itemcategorycode":"IC6","itemcategoryname":"Fruit Juices","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:33:37am"},
+{"id":"7","itemcategorycode":"IC7","itemcategoryname":"Hot Dogs","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 11:39:29am"},
+{"id":"8","itemcategorycode":"IC8","itemcategoryname":"Ice Creams","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:02:40pm"},
+{"id":"9","itemcategorycode":"IC9","itemcategoryname":"Milk Shakes","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:07:16pm"},
+{"id":"10","itemcategorycode":"IC10","itemcategoryname":"Normal Cakes","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:09:37pm"},
+{"id":"11","itemcategorycode":"IC11","itemcategoryname":"Pastries","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:12:57pm"},
+{"id":"12","itemcategorycode":"IC12","itemcategoryname":"Puffs","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:20:58pm"},
+{"id":"13","itemcategorycode":"IC13","itemcategoryname":"Sandwiches","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:30:19pm"},
+{"id":"14","itemcategorycode":"IC14","itemcategoryname":"Snacks","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:30:43pm"},
+{"id":"15","itemcategorycode":"IC14","itemcategoryname":"Snacks","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:30:44pm"},
+{"id":"16","itemcategorycode":"IC16","itemcategoryname":"Soft Drinks","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:34:01pm"},
+{"id":"17","itemcategorycode":"IC17","itemcategoryname":"Soft Rolls","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:35:30pm"},
+{"id":"18","itemcategorycode":"IC18","itemcategoryname":"Sundaes","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:36:32pm"},
+{"id":"19","itemcategorycode":"IC19","itemcategoryname":"Pizzas","itemcategorystatus":"active","itemcategoryregdate":"04\/02\/18 12:39:28pm"},
+{"id":"20","itemcategorycode":"IC20","itemcategoryname":"Biryanis ","itemcategorystatus":"active","itemcategoryregdate":"02\/05\/18 11:49:04am"},
+{"id":"21","itemcategorycode":"IC21","itemcategoryname":"Biryani","itemcategorystatus":"active","itemcategoryregdate":"27\/06\/18 07:39:47pm"}
+]
+}
+]
